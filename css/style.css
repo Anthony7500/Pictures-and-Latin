@@ -1,0 +1,15 @@
+body {
+background: lightgray;
+}
+
+p {
+color: white;
+}
+
+div:nth-child(even) {
+background: black;
+}
+
+div:nth-child(odd){
+background: DarkSeaGreen;
+}
